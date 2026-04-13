@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Iota Beta | Professional Development Club</title>
+  <meta
+    name="description"
+    content="Iota Beta is a professional development club focused on leadership, service, and meaningful student projects."
+  >
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Plus+Jakarta+Sans:wght@500;600;700;800&display=swap"
+    rel="stylesheet"
+  >
+  <link rel="stylesheet" href="styles.css?v=2">
+</head>
+<body>
+  <div class="site-shell">
+    <header class="hero" id="home">
+      <nav class="topbar">
+        <a class="brand" href="#home">
+          <span class="brand-mark">
+            <img src="assets/iota-beta-logo.png" alt="Iota Beta logo">
+          </span>
+          <span class="brand-copy">
+            <strong>Iota Beta</strong>
+            <span>Professional Development Club</span>
+          </span>
+        </a>
+
+        <div class="nav-links">
+          <a href="#about">About</a>
+          <a href="#projects">Projects</a>
+          <a href="#fundraisers">Fundraisers</a>
+          <a href="#events">Events</a>
+        </div>
+      </nav>
+
+      <div class="hero-grid">
+        <section class="hero-copy reveal">
+          <p class="eyebrow">Career Growth / Service / Leadership</p>
+          <h1 id="hero-title"></h1>
+          <p class="hero-text" id="hero-description"></p>
+
+          <div class="hero-actions">
+            <a class="button button-primary" href="#projects">Explore Our Work</a>
+            <a class="button button-secondary" href="#events">See Upcoming Events</a>
+          </div>
+
+          <dl class="hero-stats" id="hero-stats"></dl>
+        </section>
+
+        <aside class="hero-panel reveal">
+          <div class="panel-header">
+            <p>Club Focus</p>
+            <span>Updated Anytime</span>
+          </div>
+
+          <div class="panel-feature">
+            <h2 id="feature-title"></h2>
+            <p id="feature-description"></p>
+          </div>
+
+          <div class="panel-list" id="feature-highlights"></div>
+        </aside>
+      </div>
+    </header>
+
+    <main>
+      <section class="section about-section reveal" id="about">
+        <div class="section-heading">
+          <p class="section-label">What We Are</p>
+          <h2 id="about-title"></h2>
+        </div>
+
+        <div class="about-layout">
+          <article class="about-card">
+            <p id="about-description"></p>
+          </article>
+
+          <article class="quote-card">
+            <p class="quote-mark">"</p>
+            <p id="about-quote"></p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section content-section reveal" id="projects">
+        <div class="section-heading">
+          <p class="section-label">Projects</p>
+          <h2>Club Projects That Build Real Experience</h2>
+        </div>
+        <div class="card-grid" id="projects-grid"></div>
+      </section>
+
+      <section class="section content-section reveal" id="fundraisers">
+        <div class="section-heading">
+          <p class="section-label">Fundraisers</p>
+          <h2>Fundraising That Supports Our Goals</h2>
+        </div>
+        <div class="card-grid" id="fundraisers-grid"></div>
+      </section>
+
+      <section class="section content-section reveal" id="events">
+        <div class="section-heading">
+          <p class="section-label">Events</p>
+          <h2>Events That Connect Members With Opportunity</h2>
+        </div>
+        <div class="card-grid" id="events-grid"></div>
+      </section>
+    </main>
+  </div>
+
+  <script src="content.js?v=2"></script>
+  <script src="script.js?v=2"></script>
+</body>
+</html>
