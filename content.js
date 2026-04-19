@@ -167,7 +167,7 @@ const siteContent = {
       title: "Joshua Mathew",
       description: "",
       meta: ["Iota Beta Member"],
-      image: "assets/members/member_14.png"
+      image: "assets/members/member_14.jpg"
     }
   ]
 };
