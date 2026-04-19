@@ -107,7 +107,7 @@ const siteContent = {
       title: "Bryce Latonio",
       description: "The grand scribe of Iota Beta, responsible for documenting class meetings and maintaining records.",
       meta: ["Iota Beta Grand Scribe"],
-      image: "assets/members/member_4.png"
+      image: "assets/members/Member_4.png"
     },
     {
       title: "Osvaldo Ramos",
