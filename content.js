@@ -143,7 +143,7 @@ const siteContent = {
       title: "Cam Calderon",
       description: "",
       meta: ["Iota Beta Member"],
-      image: ""
+      image: "assets/members/member_10.png"
     },
     {
       title: "Alexander Castillo",
