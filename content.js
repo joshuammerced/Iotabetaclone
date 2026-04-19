@@ -89,55 +89,55 @@ const siteContent = {
       title: "Grant Simon",
       description: "The class president of Iota Beta, leading the class with vision and dedication to foster growth and success for all members.",
       meta: ["Iota Beta Class President"],
-      image: ""
+      image: "assets/members/member_1.png"
     },
     {
       title: "Mathew Benjamin",
       description: "The vice president of Iota Beta, supporting the class president in leading the class and communicating with members.",
       meta: ["Iota Beta Vice President"],
-      image: ""
+      image: "assets/members/member_2.png"
     },
     {
       title: "Jared Gonzales",
       description: "The grand treasurer of Iota Beta, managing the class's finances and ensuring transparent budgeting practices.",
       meta: ["Iota Beta Grand Treasurer"],
-      image: ""
+      image: "assets/members/member_3.png"
     },
     {
       title: "Bryce Latonio",
       description: "The grand scribe of Iota Beta, responsible for documenting class meetings and maintaining records.",
       meta: ["Iota Beta Grand Scribe"],
-      image: ""
+      image: "assets/members/member_4.png"
     },
     {
       title: "Osvaldo Ramos",
       description: "The corresponding secretary of Iota Beta, handling correspondence and communication with actives and our class.",
       meta: ["Iota Beta Corresponding Secretary"],
-      image: ""
+      image: "assets/members/member_5.png"
     },
     {
       title: "Malakai Guerrero",
       description: "The historian of Iota Beta, responsible for documenting the class's history and preserving important information.",
       meta: ["Iota Beta Historian"],
-      image: ""
+      image: "assets/members/member_6.png"
     },
     {
       title: "Ruby Cardenas",
       description: "",
       meta: ["Iota Beta Member"],
-      image: ""
+      image: "assets/members/member_7.jpg"
     },
     {
       title: "Ethan Dunbar",
       description: "",
       meta: ["Iota Beta Member"],
-      image: ""
+      image: "assets/members/member_8.jpg"
     },
     {
       title: "Antonella Beteta",
       description: "",
       meta: ["Iota Beta Member"],
-      image: ""
+      image: "assets/members/member_9.jpg"
     },
     {
       title: "Cam Calderon",
@@ -155,7 +155,7 @@ const siteContent = {
       title: "James Burlinson",
       description: "",
       meta: ["Iota Beta Member"],
-      image: ""
+      image: "assets/members/member_12.png"
     },
     {
       title: "Amy Nguyen",
@@ -167,7 +167,7 @@ const siteContent = {
       title: "Joshua Mathew",
       description: "",
       meta: ["Iota Beta Member"],
-      image: ""
+      image: "assets/members/member_14.png"
     }
   ]
 };
