@@ -7,7 +7,7 @@ const siteContent = {
     description:
       "Iota Beta is a professional development class where students strengthen professionalism, collaboration, and service through projects, leadership, and community-building opportunities.",
     stats: [
-      { label: "Focus", value: "Professionalism" },
+      { label: "Focus", value: "Professional" },
       { label: "Approach", value: "Service" },
       { label: "Impact", value: "Brotherhood" }
     ]
