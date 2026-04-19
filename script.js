@@ -96,6 +96,6 @@ setText("about-quote", textContent.about.quote);
 
 renderCards("projects-grid", textContent.projects);
 renderCards("fundraisers-grid", textContent.fundraisers);
-renderCards("events-grid", textContent.events);
+renderCards("members-grid", textContent.members);
 
 setupReveal();

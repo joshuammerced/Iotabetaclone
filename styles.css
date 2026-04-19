@@ -456,6 +456,10 @@ a {
   gap: 20px;
 }
 
+#projects-grid > .content-card:only-child {
+  grid-column: 1 / -1;
+}
+
 .content-card {
   display: flex;
   flex-direction: column;
