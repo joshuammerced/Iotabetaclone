@@ -34,7 +34,7 @@ const siteContent = {
   about: {
     title: "Centered on professionalism, community, and purpose.",
     description:
-      "Iota Beta creates space for members to grow as students and professionals. Through club projects, fundraising initiatives, and leadership, members practice teamwork, responsibility, communication, and leadership in ways that prepare them for future success.",
+      "Iota Beta creates space for members to grow as students and professionals. Through projects, fundraising initiatives, and leadership, members practice teamwork, responsibility, communication, and leadership in ways that prepare them for future success.",
     quote:
       "We build confidence by creating opportunities to lead, serve, and represent ourselves with excellence."
   },
