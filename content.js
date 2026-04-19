@@ -5,7 +5,7 @@ const siteContent = {
   hero: {
     title: "Developing Future Leaders Through Real-World Experience",
     description:
-      "Iota Beta is a professional development class where students strengthen professionalism, collaboration, and service through projects, leadership, and community-building opportunities.",
+      "Iota Beta is a professional development class where students strengthen professional capabilities, collaboration, and service through projects, leadership, and community-building opportunities.",
     stats: [
       { label: "Focus", value: "Professional" },
       { label: "Approach", value: "Service" },
